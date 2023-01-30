@@ -1,4 +1,4 @@
-## if you waant to visit my page then paste following commands in your terminal first
+## if you want to visit my page then paste following commands in your terminal first because i put them into my .gitignore file
 
 ### npm install
 it helps you to create node_modules file which i keep .gitignore file
